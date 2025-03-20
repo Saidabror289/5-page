@@ -6,6 +6,7 @@
 .about{
     display: flex;
     justify-content: center;
+    margin-top: 120pxgi;
 }
 .about .text{
     margin-top: 140px;

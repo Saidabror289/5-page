@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.test{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.box p{
+    width: 450px;
+}
+.test >h4{
+    color: rgba(100, 100, 100, 1);
+}
+.box{
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 40px;
+}
